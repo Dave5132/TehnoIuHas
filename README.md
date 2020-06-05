@@ -2,15 +2,14 @@
 1.Moglan Viorica
 2.Moglan Nikita
 3.Basoc Damian
+4.Spinenco Vlad
 # TehnoIuHas2
+1.Basoc Cristi
+2.Calaev Vitalic
+3.Graur Elena
+4.Balamatiuc Eduard
+# TehnoIuHas3
 1.Tiganciuc Liviu
 2.Lupei Marius
 3.Catalin Crecu
-# TehnoIuHas3
-Minchevici Lucian
-Graur Elena
-Balamatiuc Eduard
-# TehnoIuHas 4
-Basoc Cristi
-Calaev Vitalic
-Spinenco Vlad
+4.Minchevici Lucian
